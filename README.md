@@ -4,7 +4,7 @@ Aplicação desenvolvida em Python com Streamlit para auditoria de subscrições
 
 ## 🚀 Acesse a aplicação
 
-https://SEU-APP.streamlit.app
+[https://SEU-APP.streamlit.app](https://cloudplatform.streamlit.app)
 
 ## Funcionalidades
 
