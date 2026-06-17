@@ -1,6 +1,7 @@
 # 💳 Billing Analyzer
 
 Aplicação desenvolvida em Python com Streamlit para auditoria de subscrições e créditos IBM Cloud.
+(Projeto desenvolvido para uso interno do meu time).
 
 ## 🚀 Acesse a aplicação
 
