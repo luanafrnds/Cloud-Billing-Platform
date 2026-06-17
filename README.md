@@ -20,3 +20,5 @@ https://cloudplatform.streamlit.app
 - Streamlit
 - Pandas
 - Plotly
+
+Caso queria fazer o teste, baixe os arquivos com dados falso, "Faturamento Abril", "Faturamento Maio" e "Faturamento Subscrição" 
