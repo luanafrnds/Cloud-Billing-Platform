@@ -5,7 +5,7 @@ Aplicação desenvolvida em Python com Streamlit para auditoria de subscrições
 
 ## 🚀 Acesse a aplicação
 
-https://cloudplatform.streamlit.app
+https://cloud-billing-platform.streamlit.app
 
 ## Funcionalidades
 
